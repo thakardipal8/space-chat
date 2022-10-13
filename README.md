@@ -1,1 +1,1 @@
-Welcome to Space Chat. 
+Welcome to DipAL'S SPACE CHAT APPLICATION. tHANK YOU
