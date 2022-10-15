@@ -1,4 +1,4 @@
-# Space Chat Web Application.
+# Space Chat Web App
 
 ## As a User:
 ### User Story 1:
