@@ -1,5 +1,10 @@
 # Space Chat Web App
 
+## About Space Chat App
+Social networking apps are always at the top of most people's interest. People love using apps that help them connect with their near and dear ones. Space chat is a great web based real-time chat tool that users can subscribe to and use it anywhere. App allows easy registration and login. Its responsive design enables users to access it using any devices such as Laptops, Tablets and Mobile phones. App provides a real time chat window to connect one on one with any other users.
+ 
+Space chat provides useful real-time chat meta data on screen such as last chat time, latest message with user names, and read pending message numbers. It allows users to quickly search other users. Users can also search the text within chats. This app enables users to upload and control the privacy of their profile pictures. Chat windows easily distinguish the sender and receiver's texts by keeping them right and left side respectively. Chat window displays the days / dates at top for the chat collection for those days. Users can delete the unwanted chat easily.
+
 ## As a User:
 ### User Story 1:
 - As a Chat User, I want a responsive registration page.
